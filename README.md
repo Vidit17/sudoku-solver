@@ -1,4 +1,4 @@
-The Sudoku Solver project is an application designed to solve any given Sudoku puzzle efficiently and accurately.
+The Sudoku Solver project is an logic designed to solve any given Sudoku puzzle efficiently and accurately.
 Leveraging advanced algorithms and programming techniques, this project exemplifies strong problem-solving skills
 and computational logic.
 The core solving mechanism relies on a recursive backtracking algorithm. This approach incrementally builds candidates 
